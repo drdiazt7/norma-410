@@ -4,7 +4,7 @@ import {REPOS_CODIGO, REPOS_DOCUMENTACION, SHAREPOINT_ANEXOS, INSTITUCION} from 
 export default {
     title: INSTITUCION.DOCUMENTO,
     description: 'Políticas, procedimiento y anexos',
-    base: '/',
+    base: '/norma-410/',
     head: [
         ['link', { rel: 'icon', href: '/logo1.svg' }],
     ],
